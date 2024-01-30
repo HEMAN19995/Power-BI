@@ -1,1 +1,1 @@
-
+Unveiling actionable insights from diverse datasets, I've designed an interactive Power BI dashboard centered around key variables – Application ID, Incomplete Requirements, Application Creation Date, Intended Program, Entry Term, Admission Decision, Birthdate, Gender, Application Status, Year, Age, and Age Category. Delve into the visualized dynamics of application trends, demographics, and admissions outcomes. Transforming raw data into compelling stories for informed decision-making.
